@@ -17,3 +17,4 @@ function anagramCheck(str1, str2){
 
 var ans = anagramCheck('abcc', 'ccba');
 console.log(ans);
+//anagram
